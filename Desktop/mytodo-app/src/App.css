@@ -1,0 +1,16 @@
+body{
+  background-color: whitesmoke;
+}
+h1 {
+  text-align: center;
+  color:plum
+}
+input{
+  width:50%;
+  margin-right: 100px;
+  background-color: whitesmoke;
+}
+button{
+  background-color: whitesmoke;
+   margin-left: 20px;
+}
