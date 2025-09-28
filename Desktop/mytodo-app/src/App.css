@@ -6,11 +6,29 @@ h1 {
   color:plum
 }
 input{
-  width:50%;
+  width:40%;
   margin-right: 100px;
   background-color: whitesmoke;
+  font-size:30px; 
 }
-button{
-  background-color: whitesmoke;
-   margin-left: 20px;
+.add-btn{
+  background-color: plum;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  } 
+.delete-btn{
+  background-color: white;
+  font-size: 10px;
+  position: fixed;
+  border-radius: 5px;
+  margin-left: 200px;    
+  
+}
+li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 5px;
 }
